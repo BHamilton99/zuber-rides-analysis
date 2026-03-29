@@ -27,6 +27,9 @@ This project analyzes ride-sharing data to understand market demand and evaluate
 - Identified top-performing taxi companies and high-traffic neighborhoods
 - Found a significant increase (~21%) in ride duration during rainy conditions
 
+## Business Impact
+- Provided insights into ride demand and pricing strategies based on weather and location trends
+
 ## Conclusion
 Weather conditions significantly impact ride duration, providing insights for pricing and operational strategies.
 
